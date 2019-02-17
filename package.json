@@ -1,0 +1,20 @@
+{
+    "name": "vue-std",
+    "version": "0.0.1",
+    "description": "Standard components library for Vue.js framework",
+    "main": "bin/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue",
+        "components",
+        "standard",
+        "abstract"
+    ],
+    "author": "“Enity” <“enity.w@gmail.com”>",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^5.14.0"
+    }
+}
